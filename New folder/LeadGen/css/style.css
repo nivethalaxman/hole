@@ -1,0 +1,90 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    line-height: 1.2; 
+    color: #292b2c;
+    background-color: #fff;
+}
+header{
+    margin: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.menu{
+   
+    padding-top: 15px;
+    float: right;
+}
+.menu a{
+    margin-left:25px;                               
+}
+.text{
+    padding:40px 20px;
+    text-align: center;
+}
+.row{
+    padding-top: 25px;
+    padding-bottom: 90px;
+}
+.text button{
+   padding: 5px 20px;
+   background: #07256D;
+   b
+
+}
+.carousel-item img{
+    width: 100%;
+}
+.text1{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    font-size: 27px;
+    font-weight: normal;                                                                                          
+}
+footer{
+    padding: inherit;
+    background-color: gray; 
+    padding-top: 20px;
+}
+.margin{
+   background: #F7F5F6!important;
+}
+.col-md-4 img{
+     width: 100%;
+}
+.banner-inner{
+     background-color:#E7CBD9; 
+     padding 30px;
+     margin-top: 50px;
+}
+.about p{
+    padding:25px;
+    text-align: left;
+    font-weight:lighter;
+}
+.about img{
+    margin-bottom:50px;
+    width: 100%;
+}
+.contact img{
+    margin-bottom: 50px;
+    width:100%;
+}
+.col-md-6 h4{
+    margin-bottom: 15px;
+}
+.bmargin{
+    font-weight: bolder;
+}
+@media (min-width: 992px) {
+    .navbar-nav li a { line-height: 85px; }
+}
+
+@media (max-width: 991px) {
+    .navbar-brand { float: none; }
+}
+.navbar-toggler{
+    border:none;
+    width:1em;
+}
